@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "Service"
-  s.version      = "1.1.1"
+  s.version      = "0.0.3"
   s.summary      = "底层"
 
   s.description  = <<-DESC
