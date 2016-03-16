@@ -16,11 +16,11 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "Service"
-  s.version      = "0.0.3"
-  s.summary      = "底层"
+  s.version      = "0.0.1"
+  s.summary      = "网络底层开发测试"
 
   s.description  = <<-DESC
-            底层的私有库
+                底层的私有库
                    DESC
 
   s.homepage     = "https://github.com/tangguoan/Service"
