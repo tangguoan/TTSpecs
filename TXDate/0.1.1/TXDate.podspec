@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = "TXDate"
   s.version          = "0.1.1"
-  s.summary          = "2016-09-21  09:23:34"
+  s.summary          = "对时间戳进行转化"
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
